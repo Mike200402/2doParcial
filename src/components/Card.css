@@ -1,0 +1,18 @@
+.card{
+    width: 144px;
+    height: 186px;
+    top: -273px;
+    left: -480px;
+    background-color: #414865;
+    border-radius: 2rem;
+    margin: 0px;
+
+}
+.imagen {
+    border: 0px;
+    width: 144px;
+    height: 100px;
+    top: -273px;
+    left: -480px;
+    border-radius: 2rem;
+  }
